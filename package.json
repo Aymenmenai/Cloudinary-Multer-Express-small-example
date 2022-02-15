@@ -1,0 +1,20 @@
+{
+  "name": "cloudinary-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aymen Menai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "multer": "^1.4.4"
+  }
+}
